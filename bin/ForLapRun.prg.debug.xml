@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="8" lineNum="9" pc="268435531" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="8" lineNum="10" pc="268435535" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="8" lineNum="14" pc="268435556" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="9" lineNum="17" pc="268435577" symbol="setColor"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="9" lineNum="18" pc="268435581" symbol="setColor"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="10" lineNum="21" pc="268435592" symbol="draw"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="10" lineNum="22" pc="268435596" symbol="draw"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunBackground.mc" id="10" lineNum="23" pc="268435628" symbol="draw"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="9" pc="268435641" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="10" pc="268435645" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="11" pc="268435663" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="11" pc="268435676" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="11" pc="268435689" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435702" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435715" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435728" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435741" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435754" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435767" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="12" lineNum="12" pc="268435780" symbol="initialize"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="14" pc="268435794" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="15" pc="268435798" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="16" pc="268435841" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="16" pc="268435865" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="16" pc="268435887" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="17" pc="268435909" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="17" pc="268435933" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="17" pc="268435955" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="18" pc="268435977" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="18" pc="268436001" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="18" pc="268436023" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="20" pc="268436045" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="20" pc="268436069" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="20" pc="268436091" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="21" pc="268436113" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="21" pc="268436137" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="21" pc="268436159" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="22" pc="268436181" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="22" pc="268436205" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="22" pc="268436227" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="23" pc="268436249" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="23" pc="268436273" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="23" pc="268436295" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="24" pc="268436317" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="24" pc="268436341" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="24" pc="268436363" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="25" pc="268436385" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="25" pc="268436409" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="25" pc="268436431" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="26" pc="268436453" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="26" pc="268436477" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="26" pc="268436499" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="28" pc="268436521" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="29" pc="268436573" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="30" pc="268436625" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="13" lineNum="31" pc="268436677" symbol="onLayout"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="14" lineNum="33" pc="268436681" symbol="compute"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="35" pc="268436686" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="36" pc="268436690" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="37" pc="268436709" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="37" pc="268436741" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="37" pc="268436758" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="37" pc="268436771" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="38" pc="268436787" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="38" pc="268436815" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="38" pc="268436850" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="39" pc="268436923" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="41" pc="268436990" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="41" pc="268437045" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="41" pc="268437106" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="41" pc="268437141" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="42" pc="268437235" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="43" pc="268437323" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="43" pc="268437336" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="44" pc="268437349" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="44" pc="268437362" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="45" pc="268437378" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="45" pc="268437424" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="46" pc="268437500" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="47" pc="268437516" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="47" pc="268437553" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="48" pc="268437599" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="49" pc="268437612" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="49" pc="268437625" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="50" pc="268437641" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="51" pc="268437678" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="51" pc="268437691" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="52" pc="268437707" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="52" pc="268437742" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="53" pc="268437812" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="54" pc="268437873" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="54" pc="268437886" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="55" pc="268437902" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="57" pc="268437933" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="58" pc="268437977" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="58" pc="268438001" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="58" pc="268438025" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="59" pc="268438059" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="59" pc="268438083" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="59" pc="268438107" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="60" pc="268438141" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="60" pc="268438165" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="60" pc="268438189" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="61" pc="268438223" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="61" pc="268438247" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="61" pc="268438271" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="62" pc="268438305" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="62" pc="268438329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="62" pc="268438353" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="63" pc="268438387" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="63" pc="268438411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="63" pc="268438435" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="63" pc="268438452" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="63" pc="268438489" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="64" pc="268438523" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="64" pc="268438547" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="64" pc="268438571" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="15" lineNum="65" pc="268438605" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="67" pc="268438626" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="68" pc="268438630" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="69" pc="268438649" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="69" pc="268438662" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="69" pc="268438684" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="69" pc="268438706" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="70" pc="268438725" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="70" pc="268438738" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="16" lineNum="70" pc="268438751" symbol="onTimerLap"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="17" lineNum="72" pc="268438765" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="17" lineNum="72" pc="268438769" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="17" lineNum="72" pc="268438782" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\dv\\eclipse-workspace\\ForLapRun\\source\\ForLapRunView.mc" id="17" lineNum="72" pc="268438795" symbol="onTimerReset"/>
+        <entry filename="Rez" id="23" lineNum="15" pc="268438809" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="17" pc="268438821" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="18" pc="268438834" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="20" pc="268438847" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="21" pc="268438871" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="22" pc="268439034" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="23" pc="268439197" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="24" pc="268439360" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="25" pc="268439523" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="26" pc="268439686" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="27" pc="268439849" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="28" pc="268440012" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="29" pc="268440175" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="30" pc="268440338" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="31" pc="268440501" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="33" pc="268440664" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="9" object="true" symbol="ForLapRunApp"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="19" symbol="lapHR"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="24" method="true" symbol="MainLayout"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="13" symbol="AvHRMark"/>
+        <entry id="8389752" method="true" symbol="onTimerReset"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="26" symbol="AppName"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="23" symbol="LauncherIcon"/>
+        <entry field="true" id="14" symbol="lapTime"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="20" symbol="Split"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="16" symbol="lapDist"/>
+        <entry field="true" id="25" symbol="labeldev"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="18" symbol="lapPaceMin"/>
+        <entry field="true" id="12" symbol="distMark"/>
+        <entry id="21" module="true" symbol="Layouts"/>
+        <entry field="true" id="15" symbol="lapTimeSec"/>
+        <entry id="10" object="true" symbol="ForLapRunView"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="22" module="true" symbol="Menus"/>
+        <entry id="8389751" method="true" symbol="onTimerLap"/>
+        <entry field="true" id="17" symbol="lapPace"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="11" symbol="timeMark"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435576" name="dictionary" stackId="1" startPc="268435535"/>
+        <entry endPc="268435592" name="color" stackId="1" startPc="268435577"/>
+        <entry endPc="268435641" name="dc" stackId="1" startPc="268435592"/>
+        <entry endPc="268436680" name="labeldev2View" stackId="4" startPc="268435798"/>
+        <entry endPc="268436680" name="labelView" stackId="2" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtlapHRView" stackId="11" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtlapPaceMinView" stackId="5" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtlapTimeView" stackId="7" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtSplitView" stackId="9" startPc="268435798"/>
+        <entry endPc="268436680" name="labeldevView" stackId="3" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtlapTimeSecView" stackId="8" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtlapDistView" stackId="10" startPc="268435798"/>
+        <entry endPc="268436680" name="OnLtlapPaceView" stackId="6" startPc="268435798"/>
+        <entry endPc="268436681" name="dc" stackId="1" startPc="268435794"/>
+        <entry endPc="268436686" name="info" stackId="1" startPc="268436681"/>
+        <entry endPc="268438625" name="OnLtlapDist" stackId="8" startPc="268436690"/>
+        <entry endPc="268438625" name="OnLtlapPace" stackId="4" startPc="268436690"/>
+        <entry endPc="268438625" name="OnLtSplit" stackId="7" startPc="268436690"/>
+        <entry endPc="268438625" name="OnLtlapHR" stackId="9" startPc="268436690"/>
+        <entry endPc="268438625" name="info" stackId="2" startPc="268436690"/>
+        <entry endPc="268438625" name="OnLtlapTimeSec" stackId="6" startPc="268436690"/>
+        <entry endPc="268438625" name="OnLtlapTime" stackId="5" startPc="268436690"/>
+        <entry endPc="268438625" name="OnLtlapPaceMin" stackId="3" startPc="268436690"/>
+        <entry endPc="268438626" name="dc" stackId="1" startPc="268436686"/>
+        <entry endPc="268438764" name="info" stackId="1" startPc="268438630"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_labSplit" stackId="9" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_labeldev" stackId="6" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapPace" stackId="10" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapPaceMin2" stackId="12" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapTime" stackId="13" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapHR" stackId="8" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_labeldev2" stackId="7" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapDist" stackId="15" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapTimeSec" stackId="14" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_lablapPaceMin" stackId="11" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_custom_drawable_20068444012141530261" stackId="4" startPc="268438821"/>
+        <entry endPc="268440791" name="rez_cmp_local_text_label" stackId="5" startPc="268438821"/>
+        <entry endPc="268440792" name="dc" stackId="1" startPc="268438809"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="253" parentId="globals" symbolId="ForLapRunApp" type="class"/>
+        <dataEntry offset="324" parentId="globals" symbolId="ForLapRunView" type="class"/>
+        <dataEntry offset="491" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="570" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="609" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="640" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="741" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ForLapRunApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ForLapRunApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ForLapRunApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ForLapRunApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ForLapRunView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ForLapRunView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="ForLapRunView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ForLapRunView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerLap" parent="ForLapRunView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerReset" parent="ForLapRunView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
