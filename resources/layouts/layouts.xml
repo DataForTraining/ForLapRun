@@ -11,7 +11,6 @@
 
         <label id="lablapPace" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
         <label id="lablapPaceMin" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
-        <label id="lablapPaceMin2" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_HOT" />
         <label id="lablapTime" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
         <label id="lablapTimeSec" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
         <label id="lablapDist" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
