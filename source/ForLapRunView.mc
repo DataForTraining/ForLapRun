@@ -13,17 +13,17 @@ class ForLapRunView extends WatchUi.DataField {
     }
     function onLayout(dc) {
             View.setLayout(Rez.Layouts.MainLayout(dc));
-            var labelView = View.findDrawableById("label");                  labelView.locY =                   labelView.locY-40;                   labelView.locX = labelView.locX-80;
-            var labeldevView = View.findDrawableById("labeldev");            labeldevView.locY =             labeldevView.locY-0;              labeldevView.locX = labeldevView.locX-66;
-            var labeldev2View = View.findDrawableById("labeldev2");        labeldev2View.locY =             labeldev2View.locY-57;           labeldev2View.locX = labeldev2View.locX-17;
+            var labelView = View.findDrawableById("label");                  labelView.locY =                   labelView.locY-40;                    labelView.locX = labelView.locX-80;
+            var labeldevView = View.findDrawableById("labeldev");            labeldevView.locY =             labeldevView.locY- 0;              labeldevView.locX = labeldevView.locX-66;
+            var labeldev2View = View.findDrawableById("labeldev2");          labeldev2View.locY =           labeldev2View.locY-57;            labeldev2View.locX = labeldev2View.locX-17;
 
-            var OnLtlapPaceMinView = View.findDrawableById("lablapPaceMin");  OnLtlapPaceMinView.locY =  OnLtlapPaceMinView.locY-57;  OnLtlapPaceMinView.locX = OnLtlapPaceMinView.locX-42;
-            var OnLtlapPaceView = View.findDrawableById("lablapPace");        OnLtlapPaceView.locY =        OnLtlapPaceView.locY-57;        OnLtlapPaceView.locX = OnLtlapPaceView.locX+29;
-            var OnLtlapTimeView = View.findDrawableById("lablapTime");        OnLtlapTimeView.locY =         OnLtlapTimeView.locY+0;        OnLtlapTimeView.locX = OnLtlapTimeView.locX-88;
-            var OnLtlapTimeSecView = View.findDrawableById("lablapTimeSec");  OnLtlapTimeSecView.locY =   OnLtlapTimeSecView.locY+0;  OnLtlapTimeSecView.locX = OnLtlapTimeSecView.locX-44;
-            var OnLtSplitView = View.findDrawableById("labSplit");                     OnLtSplitView.locY = OnLtSplitView.locY-00;           OnLtSplitView.locX = OnLtSplitView.locX+10;
-            var OnLtlapDistView = View.findDrawableById("lablapDist");        OnLtlapDistView.locY =         OnLtlapDistView.locY+0;        OnLtlapDistView.locX = OnLtlapDistView.locX+74;
-            var OnLtlapHRView = View.findDrawableById("lablapHR");           OnLtlapHRView.locY =           OnLtlapHRView.locY+51;           OnLtlapHRView.locX = OnLtlapHRView.locX+ 0;
+            var OnLtlapPaceMinView = View.findDrawableById("lablapPaceMin"); OnLtlapPaceMinView.locY = OnLtlapPaceMinView.locY-57;  OnLtlapPaceMinView.locX = OnLtlapPaceMinView.locX-42;
+            var OnLtlapPaceView = View.findDrawableById("lablapPace");       OnLtlapPaceView.locY =       OnLtlapPaceView.locY-57;        OnLtlapPaceView.locX = OnLtlapPaceView.locX+29;
+            var OnLtlapTimeView = View.findDrawableById("lablapTime");       OnLtlapTimeView.locY =       OnLtlapTimeView.locY+ 0;        OnLtlapTimeView.locX = OnLtlapTimeView.locX-88;
+            var OnLtlapTimeSecView = View.findDrawableById("lablapTimeSec"); OnLtlapTimeSecView.locY = OnLtlapTimeSecView.locY+ 0;  OnLtlapTimeSecView.locX = OnLtlapTimeSecView.locX-44;
+            var OnLtSplitView = View.findDrawableById("labSplit");           OnLtSplitView.locY =           OnLtSplitView.locY+ 0;            OnLtSplitView.locX = OnLtSplitView.locX+10;
+            var OnLtlapDistView = View.findDrawableById("lablapDist");       OnLtlapDistView.locY =       OnLtlapDistView.locY+ 0;        OnLtlapDistView.locX = OnLtlapDistView.locX+74;
+            var OnLtlapHRView = View.findDrawableById("lablapHR");           OnLtlapHRView.locY =           OnLtlapHRView.locY+51;            OnLtlapHRView.locX = OnLtlapHRView.locX+ 0;
 
         View.findDrawableById("label").setText(Rez.Strings.label);
         View.findDrawableById("labeldev").setText(Rez.Strings.labeldev);
@@ -66,8 +66,8 @@ class ForLapRunView extends WatchUi.DataField {
     }
     function onTimerLap() {
         var info = Activity.getActivityInfo();
-        if(info.timerTime != null)       {timeMark = info.timerTime/1000; distMark = info.elapsedDistance/1000; AvHRMark = info.averageHeartRate;}
-        else                             {timeMark = 0.0f; distMark = 0.0f; AvHRMark = 0.0f;}
+        if(info.timerTime != null) {timeMark = info.timerTime/1000; distMark = info.elapsedDistance/1000; AvHRMark = info.averageHeartRate;}
+        else                       {timeMark = 0.0f; distMark = 0.0f; AvHRMark = 0.0f;}
     }
     function onTimerReset() { timeMark = 0.0f; distMark = 0.0f; AvHRMark = 0.0f;
     }
