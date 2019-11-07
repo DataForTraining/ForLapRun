@@ -1,19 +1,19 @@
 <layouts>
     <layout id="MainLayout">
         <drawable class="Background" />
-        <label id="label" x="center" y="center" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_MEDIUM" />
-        <label id="labeldev" x="center" y="center" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
-        <label id="labeldev2" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
+        <label id="label" x="27" y="37" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_MEDIUM" />
+        <label id="labeldev" x="37" y="66" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_NUMBER_MEDIUM" />
+        <label id="labeldev2" x="78" y="-18" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_NUMBER_THAI_HOT" />
 
-        <label id="lablapPaceMin" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
-        <label id="lablapPaceSec" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
+        <label id="lablapPaceMin" x="82" y="-18" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_NUMBER_THAI_HOT" />
+        <label id="lablapPaceSec" x="133" y="-18" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
 
-        <label id="lablapTimeMin" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
-        <label id="lablapTimeSec" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
-        <label id="labEstimHR" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MILD" />
-        <label id="lablapDist" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MEDIUM" />
+        <label id="lablapTimeMin" x="37" y="66" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_NUMBER_MEDIUM" />
+        <label id="lablapTimeSec" x="81" y="66" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_RIGHT" font="Graphics.FONT_NUMBER_MEDIUM" />
+        <label id="labEstimHR" x="117" y="75" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_MILD" />
+        <label id="lablapDist" x="152" y="66" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" font="Graphics.FONT_NUMBER_MEDIUM" />
 
-        <label id="lablapHR" x="center" y="center" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
+        <label id="lablapHR" x="center" y="89" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_NUMBER_THAI_HOT" />
 
     </layout>
 </layouts>
